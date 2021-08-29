@@ -1,7 +1,7 @@
 ### Olá, eu sou o João Vitor 
 
 
-- 🌱 Estundando FullStack 
+- 🌱 Estudando FullStack 
 - 📫 Contate-me no: vitormouracs@gmail.com
 
 <div>
